@@ -154,6 +154,37 @@ h3{
     text-indent: 2em;
 }
 
+
+.subscribe{
+ display: flex;
+padding-left: 35%;
+padding-right: 25%;
+padding-bottom: 30px;
+width: 50%;
+
+
+
+}
+
+.subscribe input{
+    height: 30px;
+    width: 40%;
+
+    border-radius: 10px;
+    border: 2px solid red;
+
+}
+
+
+
+#email{
+    margin-right: 20px;
+}
+
+
+
+
+
 .footer{
 background-color: black;
 color: white;
@@ -161,4 +192,11 @@ height: 300px;
 text-align: center;
 padding: 10px;
 
+}
+
+.footer-links a{
+    text-decoration: none;
+    color: orange;
+    font-size: 18px;
+    
 }
